@@ -1,0 +1,9 @@
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+http://code.runnable.com/U07z_Y_j9rZk1tTx/handlebars-template-examples-with-express-4-for-node-js
+https://www.packtpub.com/books/content/using-handlebars-express
+http://excellencenodejsblog.com/getting-started-express-4-x-template-engine/
+
+MOngo DB
+https://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html
+https://www.kompulsa.com/introduction-mongoose-storing-data-mongodb/
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
